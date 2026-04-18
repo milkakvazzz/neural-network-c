@@ -1,0 +1,6 @@
+*.o
+*.exe
+*.out
+reports/heatmap.txt
+.DS_Store
+Thumbs.db
